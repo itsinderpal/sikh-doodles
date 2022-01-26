@@ -8,7 +8,7 @@ node_modules
 coverage
 coverage.json
 typechain
-src/artifacts/contracts
+src/artifacts/
 
 #Hardhat files
 cache

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { ethers } from "ethers";
-import SikhDoodles from "./artifacts/contracts/SikhDoodles.sol/SikhDoodles.json";
+import SikhDoodles from "./artifacts/SikhDoodles.json";
 import Main from "./components/Main";
 import { formatUnits } from "ethers/lib/utils";
 

@@ -213,7 +213,6 @@ const App = () => {
 						className="p-1 rounded-lg hover:bg-red-300 hover:text-black cursor-pointer">
 						Discord
 					</a>
-					<a className="p-1 rounded-lg hover:bg-red-300 hover:text-black cursor-pointer">About</a>
 					{address ? (
 						<div className="rounded-lg bg-red-400 flex items-center">
 							<p className="px-1">{+(Math.round(balance + "e+3") + "e-3")}</p>
